@@ -1,0 +1,12 @@
+/* style.css */
+
+
+/* div for external portion of the assignment*/
+div {
+    color: white;
+    background-color: red; 
+    font-size: 32px;
+    text-align: center;
+    font-weight: 900;
+}
+
